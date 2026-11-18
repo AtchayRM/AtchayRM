@@ -1,41 +1,5 @@
-
-
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=53F5C4&center=true&vCenter=true&width=650&lines=BLACKBOX-07+%2F+IDENTITY+CORE;Independent+Developer+%7C+AI+Explorer;Think+Different.+Build+Relentlessly." />
-
-</div>
-
-<pre>
-╔══════════════════════════════════════════════════════════════════════════════════════╗
-║  ◈ BLACKBOX-07 / ATCHAYRM                              [ PROFILE: PUBLIC ]         ║
-╠══════════════════════════════════════════════════════════════════════════════════════╣
-║                                                                                      ║
-║                         ┌── IDENTIFICATION MATRIX ──┐                                ║
-║                                                                                      ║
-║                        ███   █████   ████  █   █   ███   █   █                       ║
-║                       █   █    █    █      █   █  █   █  █   █                       ║
-║                       █   █    █    █      █   █  █   █   █ █                        ║
-║                       █████    █    █      █████  █████    █                         ║
-║                       █   █    █    █      █   █  █   █    █                         ║
-║                       █   █    █    █      █   █  █   █    █                         ║
-║                       █   █    █     ████  █   █  █   █    █                         ║
-║                                                                                      ║
-║  ┏━[ TELEMETRY ]━━━━━━━━━━━━━━━━━━━┓  ┏━[ DIRECTIVES ]━━━━━━━━━━━━━━━━━━━━━━━━━━┓  ║
-║  ┃ NODE  : ATCHAYRM                ┃  ┃ 01 / BUILD REAL-WORLD PRODUCTS          ┃  ║
-║  ┃ ROLE  : FULL STACK × AI         ┃  ┃ 02 / EXPLORE APPLIED AI                 ┃  ║
-║  ┃ MODE  : LEARN → BUILD → SHIP    ┃  ┃ 03 / THINK BEYOND THE OBVIOUS           ┃  ║
-║  ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛  ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛  ║
-║                                                                                      ║
-║  [ TECH ]    PYTHON / JAVASCRIPT / REACT / NEXT.JS / NODE.JS / MONGODB              ║
-║  [ BUILDS ]  CRICKROOM / CHAYVA / RETRIVE DAD                                       ║
-║                                                                                      ║
-║  ─────────────────────────────── END OF IDENTITY FILE ────────────────────────────  ║
-╚══════════════════════════════════════════════════════════════════════════════════════╝
-</pre>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1500&color=53F5C4&center=true&vCenter=true&width=650&lines=Initializing+next+project...;Learning+never+stops.;System+status%3A+BUILDING" />
+  <img src="./atchay-blackbox-banner.svg" width="100%" alt="Atchay Blackbox Banner"/>
 </div>
 
 ---
