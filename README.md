@@ -1,28 +1,15 @@
 
-```text
-╔══════════════════════════════════════════════════════════════════════════════╗
-║  [SYS://github.com/AtchayRM]                           [CONNECTION: SECURE]  ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║                                                                              ║
-║                ███    ███████   █████   █   █      ███    █   █              ║
-║               █   █      █     █        █   █     █   █   █   █              ║
-║               █   █      █     █        █   █     █   █    █ █               ║
-║                █████      █     █        █████     █████     █               ║
-║                █   █      █     █        █   █     █   █     █               ║
-║                █   █      █     █        █   █     █   █     █               ║
-║                █   █      █      █████   █   █     █   █     █               ║
-║                                                                              ║
-║   ┌─[ TELEMETRY ]────────────────────────────────────────────────────────┐   ║
-║   │ > ROLE   : Full-Stack & AI Developer                                 │   ║
-║   │ > FOCUS  : AI Applications • Scalable Backends • Clean UI            │   ║
-║   │ > STACK  : Python • JavaScript • React • Next.js • Node.js           │   ║
-║   │ > STATUS : Building. Learning. Shipping.                             │   ║
-║   └──────────────────────────────────────────────────────────────────────┘   ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
+<div align="center">
 
+# ATCHAY
 
+### `AI + Full Stack Developer`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=AI+Enthusiast;Full+Stack+Developer;Building+Ideas+Into+Reality;Always+Learning+Something+New" />
+
+</div>
+
+---
 ---
 
 ### `$ whoami`
